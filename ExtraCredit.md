@@ -118,4 +118,4 @@ Well toodle-loo for you.
 What's next?-> Random1
 
 =Random1=
-You get up with a lot of pain
+You get up with a lot of pain.
